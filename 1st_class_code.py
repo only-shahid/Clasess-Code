@@ -15,8 +15,10 @@ print("Hello, World!")
 print()
 
 
-# kisi bhi varable ko likhny ka sahii treeka ye hai jisy 
+# kisi bhi varable ko likhny ka sahii treeka (syntax) ye hai jisy 
 # programming ki language me (syntax) kehty hen.
-#v_n-o-v_v
-name = "shahid"
+# variable ka naam / operator / variable ki value
+# nichy di gai example ko ghur se dekh kr smjhny ki koshish kren.
+#v_n  -o-   v_v
+name   =   "shahid"
 print(name)
